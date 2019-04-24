@@ -1,6 +1,4 @@
-# vue-projet1
-
-> A Vue.js project
+# vue-squares
 
 ## Build Setup
 
