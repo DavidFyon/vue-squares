@@ -1,4 +1,5 @@
 # vue-squares
+Ajout de carrés avec couleurs prédéfinies + ajout d'une couleur à un élément au click sur un carré
 
 ## Build Setup
 
